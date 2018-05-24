@@ -1,4 +1,4 @@
-*FriendFinder*
+#FriendFinder
 
 FriendFinder is a full-stack site that asks the user to respond to 10 questions, then (based on their answers) checks their compatibility with the scores for users saved on the server. The user is then shown who they are most compatible with.
 
